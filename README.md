@@ -11,6 +11,7 @@ The Vinyl Town frontend prototype is a demonstrative e-commerce website interfac
 ## Technology Stack
 - HTML
 - CSS
+- Bootstrap 4
 
 ## Usage Guide
 - Simply open the `Home.html` and `product.html` files in any modern web browser to view the frontend pages.
@@ -25,5 +26,5 @@ The Vinyl Town frontend prototype is a demonstrative e-commerce website interfac
 - As a demonstration prototype, contributions for additional features and improvements are welcome.
 - Please ensure you follow the existing code style before submitting changes.
 
-## Disclaimer
-- This project is for demonstration purposes only. All product images, trademarks, and branding are used for demonstration only and are copyrights of their respective owners.
+## License:
+This project is licensed under the MIT License - see the LICENSE file for details.
